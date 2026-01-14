@@ -28,6 +28,7 @@ In the previous picture it showed 15 failed logon attempts and every attempt loo
 **PART 2 REMEDIATION**
 
 **IP blocking**
+
 So based on the info given from the dash (192.168.1.75) we can block their Ip using a host-based firewall 
 This prevents further authentication attempts on the network layer from **THIS** IP address
 
@@ -39,5 +40,6 @@ This also prevents brute force attacks and password spraying
 
 
 **Account Based Remediation**
+
 You can force reset the potential victim accounts password
 Replace it with a complex password to reduce further risk/exposure
