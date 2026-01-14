@@ -1,3 +1,4 @@
+PART 1 ATTACK and INVESTIGATION
 Ok this first image below simulates an attempt of an attacker on Kali trying to connect to the target and potentially access files
 <p align="center">
   <img src="pictures/attackattemptkali.png" width="600" height="350">
@@ -21,3 +22,5 @@ In the previous picture it showed 15 failed logon attempts and every attempt loo
 <p align="center">
   <img src="pictures/attackattempt.png" width="600" height="350">
 </p>
+
+PART 2 REMEDIATION
