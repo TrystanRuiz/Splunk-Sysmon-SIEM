@@ -25,4 +25,19 @@ In the previous picture it showed 15 failed logon attempts and every attempt loo
   <img src="pictures/attackattempt.png" width="600" height="350">
 </p>
 
-PART 2 REMEDIATION
+**PART 2 REMEDIATION**
+
+**IP blocking**
+So based on the info given from the dash (192.168.1.75) we can block their Ip using a host-based firewall 
+This prevents further authentication attempts on the network layer from **THIS** IP address
+
+
+**System Hardening**
+
+We can configure a lockout policy so after 5 attempts the account is locked out and that would have triggered in this scenario
+This also prevents brute force attacks and password spraying
+
+
+**Account Based Remediation**
+You can force reset the potential victim accounts password
+Replace it with a complex password to reduce further risk/exposure
