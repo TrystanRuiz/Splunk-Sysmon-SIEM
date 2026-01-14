@@ -4,7 +4,7 @@ Ok this first image blow simulates an attempt of an attacker on Kali trying to c
 </p>
 
 <p align="center">
-  <img src="pictures/dash1.png" width="800" height="450">
+  <img src="pictures/dash1.png" width="600" height="350">
 </p>
 
 <p align="center">
