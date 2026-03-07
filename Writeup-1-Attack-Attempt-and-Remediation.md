@@ -1,8 +1,6 @@
 # Splunk SIEM Lab #01 — Brute Force Attack Detection & Remediation
 **Platform:** Splunk Enterprise (Home Lab / Sysmon SIEM)
 **Category:** Credential Access / Brute Force
-**Difficulty:** Medium
-**Outcome:** ✅ True Positive — Remediated
 
 ---
 
@@ -108,4 +106,4 @@ The Splunk SIEM correctly identified and surfaced a brute force credential attac
 
 ---
 
-*Write-up by Trystan Ruiz | Splunk Enterprise Home Lab | Blue Team Portfolio*
+*Write-up by Trystan Ruiz*
