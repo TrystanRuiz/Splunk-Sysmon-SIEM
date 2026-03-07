@@ -4,7 +4,7 @@
 
 ## Overview
 
-Ran a brute force simulation on my home lab — Kali as the attacker, Windows host as the target.
+Ran a brute force simulation on my home lab , Kali as the attacker, Windows host as the target.
 
 ---
 
