@@ -61,4 +61,4 @@ Drilled into the events — all 15 came from `192.168.1.75`, workstation name "K
 
 ---
 
-*Write-up by Trystan Ruiz | Splunk Enterprise Home Lab*
+*Write-up by Trystan Ruiz*
