@@ -26,13 +26,13 @@ A hands-on home lab SIEM built with Splunk Enterprise and Sysmon for real-world 
 
 ## Writeups
 
-| # | Title | Key Events | MITRE ATT&CK |
-|---|-------|-----------|--------------|
-| 1 | [Brute Force Attack Detection & Remediation](Writeup-1-Attack-Attempt-and-Remediation.md) | Event 4625 | [T1110](https://attack.mitre.org/techniques/T1110/) |
-| 2 | [Lateral Movement Detection](Writeup-2-Lateral-Movement-Detection.md) | Sysmon 1/3/10, Event 4624 T3, 4648 | [T1021](https://attack.mitre.org/techniques/T1021/) |
-| 3 | [Persistence Mechanism Detection](Writeup-3-Persistence-Mechanism-Detection.md) | Sysmon 12/13, Event 4698 | [T1053](https://attack.mitre.org/techniques/T1053/) / [T1547](https://attack.mitre.org/techniques/T1547/) |
-| 4 | [PowerShell Abuse Detection](Writeup-4-PowerShell-Abuse-Detection.md) | Event 4104, Sysmon 1/3 | [T1059.001](https://attack.mitre.org/techniques/T1059/001/) |
-| 5 | [C2 Beacon Detection](Writeup-5-C2-Beacon-Detection.md) | Sysmon 3, Sysmon 1 | [T1071](https://attack.mitre.org/techniques/T1071/) |
+| # | Title |
+|---|-------|
+| 1 | [Brute Force Attack Detection & Remediation](Writeup-1-Attack-Attempt-and-Remediation.md) |
+| 2 | [Lateral Movement Detection](Writeup-2-Lateral-Movement-Detection.md) |
+| 3 | [Persistence Mechanism Detection](Writeup-3-Persistence-Mechanism-Detection.md) |
+| 4 | [PowerShell Abuse Detection](Writeup-4-PowerShell-Abuse-Detection.md) |
+| 5 | [C2 Beacon Detection](Writeup-5-C2-Beacon-Detection.md) |
 
 ---
 
