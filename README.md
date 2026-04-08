@@ -1,10 +1,5 @@
 # Splunk + Sysmon Home Lab SIEM
 
-![Splunk](https://img.shields.io/badge/Splunk-Enterprise-black?style=flat-square&logo=splunk)
-![Sysmon](https://img.shields.io/badge/Sysmon-v15-blue?style=flat-square&logo=windows)
-![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Windows_11-0078D6?style=flat-square&logo=windows11)
-
 A hands-on home lab SIEM built with Splunk Enterprise and Sysmon for real-world threat detection and incident response. Each writeup simulates an attack from a Kali Linux machine against a Windows target, with full detection and remediation documented.
 
 ---
